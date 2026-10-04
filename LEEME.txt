@@ -1,0 +1,8 @@
+CÓMO INSTALAR
+
+1. Entra a https://app.netlify.com/drop y arrastra esta carpeta completa.
+2. Abre en el celular la dirección https que te entrega.
+3. Android (Chrome): menú ⋮ → "Instalar aplicación".
+   iPhone (Safari): Compartir → "Agregar a pantalla de inicio".
+
+Los datos se guardan solo en el dispositivo. Usa "Exportar respaldo" seguido para no perderlos.
